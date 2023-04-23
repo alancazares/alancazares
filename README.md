@@ -3,7 +3,12 @@ Welcome to my Github Page! I will be sharing some content focused in the develop
 
 You can reach out to me to talk about anything related to the Metaverse, AR, VR and Unity projects.
 
+- 💬 Ask me about Industrial use cases for XR technology, I have successfully helped companies kickstart their Digital Transformation strategies through the use of Augmented Reality, Internet of Things and Machine learning Solutions.
 
+- 📫 If you want to reach out to me, please send me an email to alanczrs@gmail.com of feel free to add me on Linkedin: 
+- https://www.linkedin.com/in/fernando-alan-cazares/
+
+- 🌱 I’m currently learning python so any suggestions will be highly appreciated.
 
 <!--
 **alancazares/alancazares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
