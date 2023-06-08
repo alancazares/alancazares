@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my Github Page! I will be sharing some content focused in the development of Unity and XR Projects
 
-You can reach out to me to talk about anything related to the Metaverse, AR, VR and Unity projects.
+You can reach out to me to talk about anything related to the Spatial Computing, AR, VR and Unity projects.
 
 - 💬 Ask me about Industrial use cases for XR technology, I have successfully helped companies kickstart their Digital Transformation strategies through the use of Augmented Reality, Internet of Things and Machine learning Solutions.
 
